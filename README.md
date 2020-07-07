@@ -1,2 +1,1 @@
-# PyramidPattern
-Pyramid Star Pattern
+# P
