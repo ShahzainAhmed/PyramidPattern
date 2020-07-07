@@ -1,1 +1,1 @@
-# Pyramid Patt
+# Pyramid Pattern in Java.
