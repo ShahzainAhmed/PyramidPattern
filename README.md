@@ -1,1 +1,1 @@
-# Pyram
+# Pyrami
